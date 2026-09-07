@@ -466,6 +466,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
+- [Antigravity Skill Porter](https://github.com/Pranav-Nexus/antigravity-skill-porter) - Cross-ecosystem tool to port and optimize Claude Skills for Google Antigravity
 
 ### Inspiration & Use Cases
 
