@@ -117,6 +117,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Development & Code Tools
 
+- [antigravity-skill-porter](https://github.com/Pranav-Nexus/antigravity-skill-porter) - Convert and compile Claude skills into Google Antigravity multi-agent plugins with parallel subagents and artifact generation. *By [@Pranav-Nexus](https://github.com/Pranav-Nexus)*
 - [artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) - Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui).
 - [aws-skills](https://github.com/zxkane/aws-skills) - AWS development with CDK best practices, cost optimization MCP servers, and serverless/event-driven architecture patterns.
 - [building-blog](https://github.com/BuildShipGrowRepeat/nextjs-sanity-blog-skill) - Adds an SEO-first, i18n-ready blog to a Next.js + Sanity site via a 40-question intake, a one-page plan, and a 20-section spec. Includes a generator for AI hero images via Gemini 3 Pro Image (Nano Banana Pro). *By [@BuildShipGrowRepeat](https://github.com/BuildShipGrowRepeat)*
@@ -466,7 +467,6 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
-- [Antigravity Skill Porter](https://github.com/Pranav-Nexus/antigravity-skill-porter) - Cross-ecosystem tool to port and optimize Claude Skills for Google Antigravity
 
 ### Inspiration & Use Cases
 
